@@ -1,0 +1,15 @@
+C:\Users\Student\source\repos\SimpleEvent_00\SimpleEvent_00.App\bin\Debug\net7.0\SimpleEvent_00.App.exe
+C:\Users\Student\source\repos\SimpleEvent_00\SimpleEvent_00.App\bin\Debug\net7.0\SimpleEvent_00.App.deps.json
+C:\Users\Student\source\repos\SimpleEvent_00\SimpleEvent_00.App\bin\Debug\net7.0\SimpleEvent_00.App.runtimeconfig.json
+C:\Users\Student\source\repos\SimpleEvent_00\SimpleEvent_00.App\bin\Debug\net7.0\SimpleEvent_00.App.dll
+C:\Users\Student\source\repos\SimpleEvent_00\SimpleEvent_00.App\bin\Debug\net7.0\SimpleEvent_00.App.pdb
+C:\Users\Student\source\repos\SimpleEvent_00\SimpleEvent_00.App\obj\Debug\net7.0\SimpleEvent_00.App.csproj.AssemblyReference.cache
+C:\Users\Student\source\repos\SimpleEvent_00\SimpleEvent_00.App\obj\Debug\net7.0\SimpleEvent_00.App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\source\repos\SimpleEvent_00\SimpleEvent_00.App\obj\Debug\net7.0\SimpleEvent_00.App.AssemblyInfoInputs.cache
+C:\Users\Student\source\repos\SimpleEvent_00\SimpleEvent_00.App\obj\Debug\net7.0\SimpleEvent_00.App.AssemblyInfo.cs
+C:\Users\Student\source\repos\SimpleEvent_00\SimpleEvent_00.App\obj\Debug\net7.0\SimpleEvent_00.App.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\SimpleEvent_00\SimpleEvent_00.App\obj\Debug\net7.0\SimpleEvent_00.App.dll
+C:\Users\Student\source\repos\SimpleEvent_00\SimpleEvent_00.App\obj\Debug\net7.0\refint\SimpleEvent_00.App.dll
+C:\Users\Student\source\repos\SimpleEvent_00\SimpleEvent_00.App\obj\Debug\net7.0\SimpleEvent_00.App.pdb
+C:\Users\Student\source\repos\SimpleEvent_00\SimpleEvent_00.App\obj\Debug\net7.0\SimpleEvent_00.App.genruntimeconfig.cache
+C:\Users\Student\source\repos\SimpleEvent_00\SimpleEvent_00.App\obj\Debug\net7.0\ref\SimpleEvent_00.App.dll
