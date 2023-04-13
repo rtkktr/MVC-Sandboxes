@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.4.33213.308
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Serialize_Sample", "Serialize_Sample\Serialize_Sample.csproj", "{4C8925C5-67AF-4CD9-91E4-40890AAE25DF}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DipProject", "DipProject\DipProject.csproj", "{06532FE6-0AA5-4327-A8CE-F9F6E10F25F2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{4C8925C5-67AF-4CD9-91E4-40890AAE25DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{4C8925C5-67AF-4CD9-91E4-40890AAE25DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{4C8925C5-67AF-4CD9-91E4-40890AAE25DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{4C8925C5-67AF-4CD9-91E4-40890AAE25DF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{06532FE6-0AA5-4327-A8CE-F9F6E10F25F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06532FE6-0AA5-4327-A8CE-F9F6E10F25F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06532FE6-0AA5-4327-A8CE-F9F6E10F25F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06532FE6-0AA5-4327-A8CE-F9F6E10F25F2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {1A0EF983-79DD-4FB5-B3F9-15B78205629B}
+		SolutionGuid = {0A4FB2A2-38C9-4215-95D8-2640683EB300}
 	EndGlobalSection
 EndGlobal

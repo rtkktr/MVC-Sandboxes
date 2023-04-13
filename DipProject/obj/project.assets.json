@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Student\\Desktop\\MVC-Sandboxes\\Serialize_Sample\\Serialize_Sample.csproj",
-      "projectName": "Serialize_Sample",
-      "projectPath": "C:\\Users\\Student\\Desktop\\MVC-Sandboxes\\Serialize_Sample\\Serialize_Sample.csproj",
+      "projectUniqueName": "C:\\Users\\Student\\Desktop\\DipProject\\DipProject\\DipProject.csproj",
+      "projectName": "DipProject",
+      "projectPath": "C:\\Users\\Student\\Desktop\\DipProject\\DipProject\\DipProject.csproj",
       "packagesPath": "C:\\Users\\Student\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Student\\Desktop\\MVC-Sandboxes\\Serialize_Sample\\obj\\",
+      "outputPath": "C:\\Users\\Student\\Desktop\\DipProject\\DipProject\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Student\\AppData\\Roaming\\NuGet\\NuGet.Config",
