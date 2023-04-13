@@ -1,16 +1,20 @@
-﻿using System.Xml.Serialization;
+﻿using Serialize_Sample.Contract;
+using System.Xml.Serialization;
 
 namespace Serialize_Sample.Services
 {
-    public static class XmlSerializeService<T> where T : class
+    public class XmlSerializeService<T> : ISerializer<>
     {
-        private static XmlSerializer? _serializer;
+        private readonly XmlSerializer? _serializer;
 
-        public static void Serialize(T entity, string filename)
+        public XmlSerializeService(XmlSerializer? serializer)
         {
-
             _serializer = new XmlSerializer(typeof(T));
-            using (FileStream fs = new FileStream(filename, FileMode.OpenOrCreate))
+        }
+
+        public void Serialize(T entity, string filepath)
+        {
+            using (FileStream fs = new FileStream(filepath, FileMode.OpenOrCreate))
             {
                 try
                 {
@@ -24,9 +28,8 @@ namespace Serialize_Sample.Services
             }
         }
 
-        public static T? Deerialize(string filename)
+        public T? Deerialize(string filepath)
         {
-            _serializer = new XmlSerializer(typeof(T));
             using (FileStream fs = new FileStream(filename, FileMode.Open))
             {
                 try
@@ -41,6 +44,11 @@ namespace Serialize_Sample.Services
                 finally { fs.Close(); }
 
             }
+        }
+
+        public string Serialize(object value)
+        {
+            throw new NotImplementedException();
         }
     }
 }
