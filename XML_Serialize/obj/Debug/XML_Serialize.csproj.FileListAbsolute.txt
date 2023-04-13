@@ -1,6 +1,0 @@
-D:\کلاس C#\Serialize_Sample01\XML_Serialize\bin\Debug\XML_Serialize.exe.config
-D:\کلاس C#\Serialize_Sample01\XML_Serialize\bin\Debug\XML_Serialize.exe
-D:\کلاس C#\Serialize_Sample01\XML_Serialize\bin\Debug\XML_Serialize.pdb
-D:\کلاس C#\Serialize_Sample01\XML_Serialize\obj\Debug\XML_Serialize.exe
-D:\کلاس C#\Serialize_Sample01\XML_Serialize\obj\Debug\XML_Serialize.pdb
-D:\کلاس C#\Serialize_Sample01\XML_Serialize\obj\Debug\XML_Serialize.csprojResolveAssemblyReference.cache

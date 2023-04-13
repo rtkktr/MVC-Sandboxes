@@ -1,0 +1,15 @@
+C:\Users\Student\Desktop\MVC-Sandboxes\Serialize_Sample\bin\Debug\net7.0\Serialize_Sample.exe
+C:\Users\Student\Desktop\MVC-Sandboxes\Serialize_Sample\bin\Debug\net7.0\Serialize_Sample.deps.json
+C:\Users\Student\Desktop\MVC-Sandboxes\Serialize_Sample\bin\Debug\net7.0\Serialize_Sample.runtimeconfig.json
+C:\Users\Student\Desktop\MVC-Sandboxes\Serialize_Sample\bin\Debug\net7.0\Serialize_Sample.dll
+C:\Users\Student\Desktop\MVC-Sandboxes\Serialize_Sample\bin\Debug\net7.0\Serialize_Sample.pdb
+C:\Users\Student\Desktop\MVC-Sandboxes\Serialize_Sample\obj\Debug\net7.0\Serialize_Sample.csproj.AssemblyReference.cache
+C:\Users\Student\Desktop\MVC-Sandboxes\Serialize_Sample\obj\Debug\net7.0\Serialize_Sample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Desktop\MVC-Sandboxes\Serialize_Sample\obj\Debug\net7.0\Serialize_Sample.AssemblyInfoInputs.cache
+C:\Users\Student\Desktop\MVC-Sandboxes\Serialize_Sample\obj\Debug\net7.0\Serialize_Sample.AssemblyInfo.cs
+C:\Users\Student\Desktop\MVC-Sandboxes\Serialize_Sample\obj\Debug\net7.0\Serialize_Sample.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\MVC-Sandboxes\Serialize_Sample\obj\Debug\net7.0\Serialize_Sample.dll
+C:\Users\Student\Desktop\MVC-Sandboxes\Serialize_Sample\obj\Debug\net7.0\refint\Serialize_Sample.dll
+C:\Users\Student\Desktop\MVC-Sandboxes\Serialize_Sample\obj\Debug\net7.0\Serialize_Sample.pdb
+C:\Users\Student\Desktop\MVC-Sandboxes\Serialize_Sample\obj\Debug\net7.0\Serialize_Sample.genruntimeconfig.cache
+C:\Users\Student\Desktop\MVC-Sandboxes\Serialize_Sample\obj\Debug\net7.0\ref\Serialize_Sample.dll
