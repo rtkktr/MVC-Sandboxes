@@ -1,0 +1,35 @@
+/* Set font and background color for the calculator display */
+#display {
+	font-size: 20px;
+	background-color: #f7f7f7;
+	color: #333;
+}
+
+/* Style the calculator buttons */
+input[type="button"] {
+	font-size: 18px;
+	padding: 10px;
+	margin: 5px;
+	width: 50px;
+	background-color: #eee;
+	border: none;
+	border-radius: 5px;
+	cursor: pointer;
+}
+
+/* Style the equals button */
+input[type="button"][value="="] {
+	background-color: #4CAF50;
+	color: #fff;
+}
+
+/* Style the clear button */
+input[type="button"][value="Clear"] {
+	background-color: #f44336;
+	color: #fff;
+}
+
+/* Change the cursor style when hovering over buttons */
+input[type="button"]:hover {
+	background-color: #ddd;
+}

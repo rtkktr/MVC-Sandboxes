@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Calculator</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+	<form>
+		<input type="text" name="display" id="display" disabled>
+		<br>
+		<input type="button" value="1" onclick="addToDisplay('1')">
+		<input type="button" value="2" onclick="addToDisplay('2')">
+		<input type="button" value="3" onclick="addToDisplay('3')">
+		<input type="button" value="+" onclick="addToDisplay('+')">
+		<br>
+		<input type="button" value="4" onclick="addToDisplay('4')">
+		<input type="button" value="5" onclick="addToDisplay('5')">
+		<input type="button" value="6" onclick="addToDisplay('6')">
+		<input type="button" value="-" onclick="addToDisplay('-')">
+		<br>
+		<input type="button" value="7" onclick="addToDisplay('7')">
+		<input type="button" value="8" onclick="addToDisplay('8')">
+		<input type="button" value="9" onclick="addToDisplay('9')">
+		<input type="button" value="*" onclick="addToDisplay('*')">
+		<br>
+		<input type="button" value="0" onclick="addToDisplay('0')">
+		<input type="button" value="." onclick="addToDisplay('.')">
+		<input type="button" value="/" onclick="addToDisplay('/')">
+		<input type="button" value="=" onclick="calculate()">
+		<br>
+		<input type="button" value="Clear" onclick="clearDisplay()">
+	</form>
+
+	<script>
+		function addToDisplay(value) {
+			document.getElementById("display").value += value;
+		}
+
+		function calculate() {
+			var result = eval(document.getElementById("display").value);
+			document.getElementById("display").value = result;
+		}
+
+		function clearDisplay() {
+			document.getElementById("display").value = "";
+		}
+	</script>
+</body>
+</html>
