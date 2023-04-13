@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Student\\Desktop\\InterfaceProject\\InterfaceProject\\InterfaceProject.csproj": {}
+    "C:\\Users\\Student\\Desktop\\MVC-Sandboxes\\InterfaceProject\\InterfaceProject.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Student\\Desktop\\InterfaceProject\\InterfaceProject\\InterfaceProject.csproj": {
+    "C:\\Users\\Student\\Desktop\\MVC-Sandboxes\\InterfaceProject\\InterfaceProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Student\\Desktop\\InterfaceProject\\InterfaceProject\\InterfaceProject.csproj",
+        "projectUniqueName": "C:\\Users\\Student\\Desktop\\MVC-Sandboxes\\InterfaceProject\\InterfaceProject.csproj",
         "projectName": "InterfaceProject",
-        "projectPath": "C:\\Users\\Student\\Desktop\\InterfaceProject\\InterfaceProject\\InterfaceProject.csproj",
+        "projectPath": "C:\\Users\\Student\\Desktop\\MVC-Sandboxes\\InterfaceProject\\InterfaceProject.csproj",
         "packagesPath": "C:\\Users\\Student\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Student\\Desktop\\InterfaceProject\\InterfaceProject\\obj\\",
+        "outputPath": "C:\\Users\\Student\\Desktop\\MVC-Sandboxes\\InterfaceProject\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Student\\AppData\\Roaming\\NuGet\\NuGet.Config",
