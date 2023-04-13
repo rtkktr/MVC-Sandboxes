@@ -1,15 +1,13 @@
 ﻿using Serialize_Sample.Dtos;
 using Serialize_Sample.Services;
 
-PersonService.Serialize(new Person
+XmlSerializeService<Person>.Serialize(new Person
 {
     FName = "r",
     LName = "t",
     Age = 22
-});
+}, "xmlPerson.xml");
 
-Person person = PersonService.Deerialize();
+Person person = XmlSerializeService<Person>.Deerialize("xmlPerson.xml");
 
-Console.WriteLine(person.FName);
-Console.WriteLine(person.LName);
-Console.WriteLine(person.Age);
+Console.WriteLine($"Person [FName: {person.FName}, LName: {person.LName}, Age: {person.Age}]");
