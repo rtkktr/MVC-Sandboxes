@@ -2,13 +2,8 @@
 using DipProject.Contracts;
 using DipProject.Services;
 
-A a = new A(new List<DipProject.Contracts.IS>
-{
-    new S1(),
-    new S2(),
-    new S3()
-});
+A a = new A(new S1());
+a.Service.M1();
 
-a.Services[0].M();
-a.Services[1].M();
-a.Services[2].M();
+a.Service = new S2();
+a.Service.M1();

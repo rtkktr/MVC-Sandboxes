@@ -2,6 +2,8 @@
 {
     public interface IS
     {
-        void M();
+        void M1();
+        void M2();
+        void M3();
     }
 }

@@ -4,11 +4,11 @@ namespace DipProject.Clients
 {
     public class A
     {
-        public List<IS> Services { get; set; }
+        public IS Service { get; set; }
 
-        public A(List<IS> services)
+        public A(IS service)
         {
-            Services = services;
+            Service = service;
         }
     }
 }
