@@ -1,0 +1,15 @@
+C:\Users\Student\Desktop\InterfaceProject\InterfaceProject\bin\Debug\net7.0\InterfaceProject.exe
+C:\Users\Student\Desktop\InterfaceProject\InterfaceProject\bin\Debug\net7.0\InterfaceProject.deps.json
+C:\Users\Student\Desktop\InterfaceProject\InterfaceProject\bin\Debug\net7.0\InterfaceProject.runtimeconfig.json
+C:\Users\Student\Desktop\InterfaceProject\InterfaceProject\bin\Debug\net7.0\InterfaceProject.dll
+C:\Users\Student\Desktop\InterfaceProject\InterfaceProject\bin\Debug\net7.0\InterfaceProject.pdb
+C:\Users\Student\Desktop\InterfaceProject\InterfaceProject\obj\Debug\net7.0\InterfaceProject.csproj.AssemblyReference.cache
+C:\Users\Student\Desktop\InterfaceProject\InterfaceProject\obj\Debug\net7.0\InterfaceProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Desktop\InterfaceProject\InterfaceProject\obj\Debug\net7.0\InterfaceProject.AssemblyInfoInputs.cache
+C:\Users\Student\Desktop\InterfaceProject\InterfaceProject\obj\Debug\net7.0\InterfaceProject.AssemblyInfo.cs
+C:\Users\Student\Desktop\InterfaceProject\InterfaceProject\obj\Debug\net7.0\InterfaceProject.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\InterfaceProject\InterfaceProject\obj\Debug\net7.0\InterfaceProject.dll
+C:\Users\Student\Desktop\InterfaceProject\InterfaceProject\obj\Debug\net7.0\refint\InterfaceProject.dll
+C:\Users\Student\Desktop\InterfaceProject\InterfaceProject\obj\Debug\net7.0\InterfaceProject.pdb
+C:\Users\Student\Desktop\InterfaceProject\InterfaceProject\obj\Debug\net7.0\InterfaceProject.genruntimeconfig.cache
+C:\Users\Student\Desktop\InterfaceProject\InterfaceProject\obj\Debug\net7.0\ref\InterfaceProject.dll
