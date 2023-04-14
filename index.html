@@ -8,42 +8,28 @@
 	<form>
 		<input type="text" name="display" id="display" disabled>
 		<br>
-		<input type="button" value="1" onclick="addToDisplay('1')">
-		<input type="button" value="2" onclick="addToDisplay('2')">
-		<input type="button" value="3" onclick="addToDisplay('3')">
-		<input type="button" value="+" onclick="addToDisplay('+')">
+		<input type="button" value="1" onclick="show(event)">
+		<input type="button" value="2" onclick="show(event)">
+		<input type="button" value="3" onclick="show(event)">
+		<input type="button" value="+" onclick="changestate(event)">
 		<br>
-		<input type="button" value="4" onclick="addToDisplay('4')">
-		<input type="button" value="5" onclick="addToDisplay('5')">
-		<input type="button" value="6" onclick="addToDisplay('6')">
-		<input type="button" value="-" onclick="addToDisplay('-')">
+		<input type="button" value="4" onclick="show(event)">
+		<input type="button" value="5" onclick="show(event)">
+		<input type="button" value="6" onclick="show(event)">
+		<input type="button" value="-" onclick="changestate(event)">
 		<br>
-		<input type="button" value="7" onclick="addToDisplay('7')">
-		<input type="button" value="8" onclick="addToDisplay('8')">
-		<input type="button" value="9" onclick="addToDisplay('9')">
-		<input type="button" value="*" onclick="addToDisplay('*')">
+		<input type="button" value="7" onclick="show(event)">
+		<input type="button" value="8" onclick="show(event)">
+		<input type="button" value="9" onclick="show(event)">
+		<input type="button" value="*" onclick="changestate(event)">
 		<br>
-		<input type="button" value="0" onclick="addToDisplay('0')">
-		<input type="button" value="." onclick="addToDisplay('.')">
-		<input type="button" value="/" onclick="addToDisplay('/')">
-		<input type="button" value="=" onclick="calculate()">
-		<br>
-		<input type="button" value="Clear" onclick="clearDisplay()">
+		<input type="button" value="0" onclick="show(event)">
+		<input type="button" value="." onclick="show(event)">
+		<input type="button" value="/" onclick="changestate(event)">
+		<input type="button" value="=" onclick="changestate(event)">
+		<input type="button" value="Clear" onclick="">
 	</form>
 
-	<script>
-		function addToDisplay(value) {
-			document.getElementById("display").value += value;
-		}
-
-		function calculate() {
-			var result = eval(document.getElementById("display").value);
-			document.getElementById("display").value = result;
-		}
-
-		function clearDisplay() {
-			document.getElementById("display").value = "";
-		}
-	</script>
+	<script src="test.js"></script>
 </body>
 </html>
